@@ -67,23 +67,23 @@ method = objects_node.get_children()
 ##################################################################################################
 # Assign nodes
 Equipment_ID1 = client.get_node("ns=2;i=2") # Example
-Equipment_ID2 = client.get_node(*)          # TODO: Get a reference to the 'Equipment_ID2' node
-Equipment_ID3 = client.get_node(*)          # TODO: Get a reference to the 'Equipment_ID3' node
+Equipment_ID2 = client.get_node("ns=2;i=3")          # TODO: Get a reference to the 'Equipment_ID2' node
+Equipment_ID3 = client.get_node("ns=2;i=4")          # TODO: Get a reference to the 'Equipment_ID3' node
 
-time_left_conveyor = client.get_node(*)     # TODO: Get a reference to the 'time_left_conveyor' node
-time_left_kuka = client.get_node(*)         # TODO: Get a reference to the 'time_left_kuka' node
-time_left_Lathe = client.get_node(*)        # TODO: Get a reference to the 'time_left_Lathe' node
+time_left_conveyor = client.get_node("ns=2;i=5")     # TODO: Get a reference to the 'time_left_conveyor' node
+time_left_kuka = client.get_node("ns=2;i=6")         # TODO: Get a reference to the 'time_left_kuka' node
+time_left_Lathe = client.get_node("ns=2;i=7")        # TODO: Get a reference to the 'time_left_Lathe' node
 
-current_time = client.get_node(*)           # TODO: Get a reference to the 'current_time' node
+current_time = client.get_node("ns=2;i=9")           # TODO: Get a reference to the 'current_time' node
 
-Kuka_operation = client.get_node(*)         # TODO: Get a reference to the 'Kuka_operation' node
-Lathe_operation = client.get_node(*)        # TODO: Get a reference to the 'Lathe_operation' node
+Kuka_operation = client.get_node("ns=2;i=10")         # TODO: Get a reference to the 'Kuka_operation' node
+Lathe_operation = client.get_node("ns=2;i=11")        # TODO: Get a reference to the 'Lathe_operation' node
 
-WorkpieceID = client.get_node(*)            # TODO: Get a reference to the 'WorkpieceID' node
+WorkpieceID = client.get_node("ns=2;i=12")            # TODO: Get a reference to the 'WorkpieceID' node
 
-Conveyor_Status = client.get_node(*)        # TODO: Get a reference to the 'Conveyor_Status' node
-Kuka_Status = client.get_node(*)            # TODO: Get a reference to the 'Kuka_Status' node
-Lathe_Status = client.get_node(*)           # TODO: Get a reference to the 'Lathe_Status' node
+Conveyor_Status = client.get_node("ns=2;i=13")        # TODO: Get a reference to the 'Conveyor_Status' node
+Kuka_Status = client.get_node("ns=2;i=14")            # TODO: Get a reference to the 'Kuka_Status' node
+Lathe_Status = client.get_node("ns=2;i=15")           # TODO: Get a reference to the 'Lathe_Status' node
 ###################################################################################################
 
 # Flag of switching status
