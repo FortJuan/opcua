@@ -133,6 +133,7 @@ env.bak/
 venv.bak/
 .assignment/
 assignment
+codes
 
 # Spyder project settings
 .spyderproject
