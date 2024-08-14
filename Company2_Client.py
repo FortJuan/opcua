@@ -134,8 +134,8 @@ def StatusRecord():
 
 #############################################################################################
 # Assigning method node ID to the variable
-Start_Conveyor_prog = *     # TODO: Get a reference to the 'Start_Conveyor_prog' method node
-Start_Kuka_Prog2 = *        # TODO: Get a reference to the 'Start_Kuka_Prog2' method node
+Start_Conveyor_prog = method[6]     # TODO: Get a reference to the 'Start_Conveyor_prog' method node
+Start_Kuka_Prog2 = method[7]        # TODO: Get a reference to the 'Start_Kuka_Prog2' method node
 #############################################################################################
 
 # Adding and starting a new thread

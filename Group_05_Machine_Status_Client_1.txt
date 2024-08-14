@@ -1,0 +1,129 @@
+Time      |Conveyor Belt       |KUKA Robot          |CNC Lathe           |Workpiece ID        |KUKA Operation      |CNC Lathe Operation 
+          |Status    |R_Time   |Status    |R_Time   |Status    |R_Time   
+19:04:50  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:04:51  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:04:53  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:04:54  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:04:56  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_TRD967          |Pickup              |null                
+19:04:57  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_TRD967          |Pickup              |null                
+19:04:58  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_TRD967          |Pickup              |null                
+19:05:00  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_TRD967          |Pickup              |null                
+19:05:01  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:02  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:03  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:04  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:05  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:06  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+19:05:08  |Idle      |-s       |Idle      |-s       |Occupied  |6s       |WID_TRD967          |null                |Turning             
+19:05:09  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_TRD967          |null                |Turning             
+19:05:10  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_TRD967          |null                |Turning             
+19:05:12  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_TRD967          |null                |Turning             
+19:05:13  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_TRD967          |null                |Turning             
+19:05:15  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_TRD967          |null                |Threading           
+19:05:17  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_TRD967          |null                |Threading           
+19:05:18  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_TRD967          |null                |Threading           
+19:05:19  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_TRD967          |null                |Threading           
+19:05:21  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+Operation B Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:05:22  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD967          |null                |null                
+Operation B Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:05:23  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:25  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:26  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:28  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_DRL605          |Pickup              |null                
+19:05:29  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_DRL605          |Pickup              |null                
+19:05:30  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_DRL605          |Pickup              |null                
+19:05:32  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_DRL605          |Pickup              |null                
+19:05:34  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:35  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:36  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:37  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+19:05:38  |Idle      |-s       |Idle      |-s       |Occupied  |7s       |WID_DRL605          |null                |Turning             
+19:05:39  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_DRL605          |null                |Turning             
+19:05:41  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL605          |null                |Turning             
+19:05:42  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_DRL605          |null                |Turning             
+19:05:44  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL605          |null                |Turning             
+19:05:45  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL605          |null                |Drilling            
+19:05:47  |Idle      |-s       |Idle      |-s       |Occupied  |3s       |WID_DRL605          |null                |Drilling            
+19:05:48  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL605          |null                |Drilling            
+19:05:50  |Idle      |-s       |Idle      |-s       |Occupied  |0s       |WID_DRL605          |null                |Drilling            
+19:05:51  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL605          |null                |null                
+Operation A Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:05:52  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:05:54  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:05:55  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:05:57  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |Pickup              |null                
+19:05:58  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_DRL960          |Pickup              |null                
+19:05:59  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_DRL960          |Pickup              |null                
+19:06:01  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_DRL960          |Pickup              |null                
+19:06:02  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_DRL960          |Pickup              |null                
+19:06:04  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:06:05  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:06:06  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+19:06:07  |Idle      |-s       |Idle      |-s       |Occupied  |7s       |WID_DRL960          |null                |Turning             
+19:06:08  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_DRL960          |null                |Turning             
+19:06:10  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL960          |null                |Turning             
+19:06:11  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_DRL960          |null                |Turning             
+19:06:13  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL960          |null                |Turning             
+19:06:14  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL960          |null                |Drilling            
+19:06:16  |Idle      |-s       |Idle      |-s       |Occupied  |3s       |WID_DRL960          |null                |Drilling            
+19:06:17  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL960          |null                |Drilling            
+19:06:19  |Idle      |-s       |Idle      |-s       |Occupied  |0s       |WID_DRL960          |null                |Drilling            
+19:06:20  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL960          |null                |null                
+Operation A Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:06:21  |Occupied  |4s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:23  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:24  |Occupied  |1s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:26  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:27  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_DRL90           |Pickup              |null                
+19:06:28  |Idle      |-s       |Occupied  |3s       |Idle      |-s       |WID_DRL90           |Pickup              |null                
+19:06:30  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_DRL90           |Pickup              |null                
+19:06:31  |Idle      |-s       |Occupied  |0s       |Idle      |-s       |WID_DRL90           |Pickup              |null                
+19:06:33  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:34  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:35  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+19:06:36  |Idle      |-s       |Idle      |-s       |Occupied  |7s       |WID_DRL90           |null                |Turning             
+19:06:37  |Idle      |-s       |Idle      |-s       |Occupied  |6s       |WID_DRL90           |null                |Turning             
+19:06:38  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL90           |null                |Turning             
+19:06:40  |Idle      |-s       |Idle      |-s       |Occupied  |3s       |WID_DRL90           |null                |Turning             
+19:06:41  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL90           |null                |Turning             
+19:06:43  |Idle      |-s       |Idle      |-s       |Occupied  |0s       |WID_DRL90           |null                |Turning             
+19:06:44  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_DRL90           |null                |Drilling            
+19:06:46  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_DRL90           |null                |Drilling            
+19:06:47  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_DRL90           |null                |Drilling            
+19:06:49  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+Operation A Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:06:50  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_DRL90           |null                |null                
+Operation A Completed!
+----------------------------------------------------------------------------------------------------------------------------------
+19:06:51  |Occupied  |3s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:06:52  |Occupied  |2s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:06:54  |Occupied  |0s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:06:55  |Idle      |-s       |Occupied  |5s       |Idle      |-s       |WID_TRD796          |Pickup              |null                
+19:06:57  |Idle      |-s       |Occupied  |4s       |Idle      |-s       |WID_TRD796          |Pickup              |null                
+19:06:58  |Idle      |-s       |Occupied  |2s       |Idle      |-s       |WID_TRD796          |Pickup              |null                
+19:06:59  |Idle      |-s       |Occupied  |1s       |Idle      |-s       |WID_TRD796          |Pickup              |null                
+19:07:01  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:02  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:03  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:04  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:05  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:06  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+19:07:07  |Idle      |-s       |Idle      |-s       |Occupied  |7s       |WID_TRD796          |null                |Turning             
+19:07:09  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_TRD796          |null                |Turning             
+19:07:10  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_TRD796          |null                |Turning             
+19:07:12  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_TRD796          |null                |Turning             
+19:07:13  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_TRD796          |null                |Turning             
+19:07:15  |Idle      |-s       |Idle      |-s       |Occupied  |5s       |WID_TRD796          |null                |Threading           
+19:07:16  |Idle      |-s       |Idle      |-s       |Occupied  |4s       |WID_TRD796          |null                |Threading           
+19:07:17  |Idle      |-s       |Idle      |-s       |Occupied  |2s       |WID_TRD796          |null                |Threading           
+19:07:19  |Idle      |-s       |Idle      |-s       |Occupied  |1s       |WID_TRD796          |null                |Threading           
+19:07:20  |Idle      |-s       |Idle      |-s       |Occupied  |0s       |WID_TRD796          |null                |null                
+19:07:22  |Idle      |-s       |Idle      |-s       |Idle      |-s       |WID_TRD796          |null                |null                
+Operation B Completed!
+----------------------------------------------------------------------------------------------------------------------------------
