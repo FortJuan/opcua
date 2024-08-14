@@ -21,7 +21,7 @@ import sys
 # Assign endpoint URL
 # Make sure url is same as server url
 # TODO: assign correct url and port for client code
-url = 1
+url = *
 port = *
 
 # Assemble endpoint url
