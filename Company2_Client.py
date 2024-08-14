@@ -6,7 +6,7 @@
 
 #######################################################################################
 # TODO: You can find your group number on CANVAS, eg, if you are group 3, then put "03"
-group_number = "00"
+group_number = "05"
 #######################################################################################
 
 # import all the required libraries
@@ -24,12 +24,12 @@ Workpiece = 'null'
 # Assign endpoint URL
 # Make sure url is same as server url
 # TODO: assign correct url and port for client code
-url = *
-port = *
+url = "localhost"
+port = 7001
 
 # Assemble endpoint url
 # TODO: assemble the endpoint
-end_point = *
+end_point = "opc.tcp://{}:{}".format(url, port)
 ######################################################################################
 
 try:
