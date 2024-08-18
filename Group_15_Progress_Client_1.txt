@@ -1,0 +1,53 @@
+17:55:27 - Connecting to OPC UA server "opc.tcp://localhost:7001"
+17:55:29 - Loading operation list
+There are 5 Requests in the Operation List
+-----------------------------------------------------------------
+Starting Operation A
+17:55:29 - Transferring a New Workpiece with ID: WID_DRL72
+17:55:34 - Connecting to KUKA robot
+17:55:34 - Starting Kuka Robot Operation ---> Pick & Place Started
+17:55:40 - KUKA Operation Pick & Place Completed
+17:55:41 - Opening CNC Lathe Door
+17:55:42 - Closing CNC Lathe Door
+17:55:43 - Starting Lathe Operation ---> Turning & Drilling
+17:55:57 - Operation A Completed
+-----------------------------------------------------------------
+Starting Operation A
+17:55:59 - Transferring a New Workpiece with ID: WID_DRL746
+17:56:04 - Connecting to KUKA robot
+17:56:04 - Starting Kuka Robot Operation ---> Pick & Place Started
+17:56:10 - KUKA Operation Pick & Place Completed
+17:56:10 - Opening CNC Lathe Door
+17:56:11 - Closing CNC Lathe Door
+17:56:12 - Starting Lathe Operation ---> Turning & Drilling
+17:56:27 - Operation A Completed
+-----------------------------------------------------------------
+Starting Operation B
+17:56:28 - Transferring a New Workpiece with ID: WID_TRD929
+17:56:33 - Connecting to KUKA robot
+17:56:34 - Starting Kuka Robot Operation ---> Pick & Place Started
+17:56:40 - KUKA Operation Pick & Place Completed
+17:56:41 - Opening CNC Lathe Door
+17:56:44 - Closing CNC Lathe Door
+17:56:45 - Starting Lathe Operation ---> Turning & Threading
+17:57:00 - Operation B Completed
+-----------------------------------------------------------------
+Starting Operation B
+17:57:01 - Transferring a New Workpiece with ID: WID_TRD254
+17:57:06 - Connecting to KUKA robot
+17:57:06 - Starting Kuka Robot Operation ---> Pick & Place Started
+17:57:12 - KUKA Operation Pick & Place Completed
+17:57:13 - Opening CNC Lathe Door
+17:57:16 - Closing CNC Lathe Door
+17:57:17 - Starting Lathe Operation ---> Turning & Threading
+17:57:32 - Operation B Completed
+-----------------------------------------------------------------
+Starting Operation B
+17:57:33 - Transferring a New Workpiece with ID: WID_TRD530
+17:57:38 - Connecting to KUKA robot
+17:57:38 - Starting Kuka Robot Operation ---> Pick & Place Started
+17:57:45 - KUKA Operation Pick & Place Completed
+17:57:45 - Opening CNC Lathe Door
+17:57:48 - Closing CNC Lathe Door
+17:57:49 - Starting Lathe Operation ---> Turning & Threading
+17:58:05 - Operation B Completed

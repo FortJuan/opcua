@@ -6,7 +6,7 @@
 
 #######################################################################################
 # TODO: You can find your group number on CANVAS, eg, if you are group 3, then put "03"
-group_number = "00"
+group_number = "15"
 #######################################################################################
 
 # import all the required libraries
@@ -24,12 +24,12 @@ Workpiece = 'null'
 # Assign endpoint URL
 # Make sure url is same as server url
 # TODO: assign correct url and port for client code
-url = *
-port = *
+url = "localhost"
+port = 7001
 
 # Assemble endpoint url
 # TODO: assemble the endpoint
-end_point = *
+end_point = "opc.tcp://{}:{}".format(url, port)
 ######################################################################################
 
 try:
@@ -134,8 +134,8 @@ def StatusRecord():
 
 #############################################################################################
 # Assigning method node ID to the variable
-Start_Conveyor_prog = *     # TODO: Get a reference to the 'Start_Conveyor_prog' method node
-Start_Kuka_Prog2 = *        # TODO: Get a reference to the 'Start_Kuka_Prog2' method node
+Start_Conveyor_prog = method[2]     # TODO: Get a reference to the 'Start_Conveyor_prog' method node
+Start_Kuka_Prog2 = method[6]        # TODO: Get a reference to the 'Start_Kuka_Prog2' method node
 #############################################################################################
 
 # Adding and starting a new thread
@@ -190,7 +190,7 @@ for Current_operation in Company_2_operation_list:
         #############################################################################################
         # Assigning workpiece data and calling Start_Conveyor_prog on server program
         # TODO: add code to link conveyor program  start method and pass the current operation detail
-        Workpiece = objects_node.call_method(*, *)
+        Workpiece = objects_node.call_method(Start_Conveyor_prog, Current_operation)
         #############################################################################################
 
     else:
@@ -236,7 +236,7 @@ for Current_operation in Company_2_operation_list:
         #############################################################################################
         # TODO add code to link Start_Kuka_Prog2 program   start method
         # starting Start_Kuka_Prog2 program on kuka
-        return_value_kuka_prog2 = objects_node.call_method(*)
+        return_value_kuka_prog2 = objects_node.call_method(Start_Kuka_Prog2)
         #############################################################################################
 
         sleep(1)
